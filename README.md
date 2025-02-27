@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Orm581/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Logs581/total)
 
 # 📦・Logs581
 
